@@ -5,5 +5,5 @@ Key insights from the dashboard include:
 - Average prices for various bedroom options and their selection frequency.
 - Periods with higher ticket prices throughout the year.
 - States with the highest travel costs.
-- 
+  
 These visualizations facilitate understanding and enable targeted improvements to the travel system.
